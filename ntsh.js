@@ -1,4 +1,4 @@
-// const name ="nitesh"
+che// const name ="nitesh"
 // console.log("Hello, World!");
 
 // this is program to find the missing number from the given array
