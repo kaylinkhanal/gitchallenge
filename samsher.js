@@ -1,6 +1,6 @@
 const some = {
     name:'some ',
-    age:'14',
+    age:'22',
     sex:'male',
     club:'arsenal'
 
