@@ -3,4 +3,4 @@ funtion addSum(){
     return 1000
 }
 addSum()
-console.log('hi')
+console.log('hi kylin sir')
