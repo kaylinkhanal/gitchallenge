@@ -1,4 +1,4 @@
-let a = 10
+let a = 30
 funtion addSum(){
     return 1000
 }
