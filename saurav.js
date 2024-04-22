@@ -1,2 +1,2 @@
 let s = "saurav"
-console.log(s)
+console.log(s.length)
