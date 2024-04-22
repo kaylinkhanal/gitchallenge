@@ -2,7 +2,7 @@ const some = {
     name:'some ',
     age:'14',
     sex:'male',
-    city:'united'
+    club:'arsenal'
 
 }
 
