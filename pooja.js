@@ -1,2 +1,2 @@
-const arr=[3,4,77]
+const arr=[3,4,7]
 arr.length
